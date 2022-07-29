@@ -2,20 +2,18 @@
 
 <!--![GitHub Repo stars](https://img.shields.io/github/stars/vvdo/calculadora?style=social)-->
 
-**vvdo/vvdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a jr developer looking to create a **unicorn startup**
 
-Here are some ideas to get you started:
 
-I'm currently working on a control project. 
+I'm currently working on a control project.<br>
 🌱 I'm learning Laravel and Svelte. 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
-👯 I'm looking to collaborate on projects aimed at the metaverse. 
-💬 Ask about artisan breads. 
-📫 How to reach me: vitor.vini@live.com .
-⚡ Curiosity: I am passionate about artisanal bakery. 
+<img height="32" width="32" src="laravel.svg" />
+<img height="32" width="32" src="svelte.svg" /><br>
+👯 I'm looking to collaborate on projects aimed at the metaverse. <br>
+💬 Ask about artisan breads. <br>
+📫 How to reach me: vitor.vini@live.com .<br>
+⚡ Curiosity: I am passionate about artisanal bakery. <br>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
 
 
 ![Vvdo's github stats](https://github-readme-stats.vercel.app/api?username=vvdo&hide_title=true&theme=dark)
